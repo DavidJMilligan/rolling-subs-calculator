@@ -17,3 +17,4 @@ python3 rolling_subs_calculator.py
 
 #### Assumptions:
 1. The team has 1 goalkeeper who will not be substituted.
+2. Player names are unique
