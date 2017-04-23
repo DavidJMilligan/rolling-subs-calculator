@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""The rolloing subs calculator calculates the amount of time each
+"""The rolling subs calculator calculates the amount of time each
 player on a team will have on the pitch, times substitutions should
 be made and which players are subbed on / off at each substitution.
 """
